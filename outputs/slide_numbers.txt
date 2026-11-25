@@ -1,0 +1,13 @@
+n_members=330
+n_train=231
+n_test=99
+mean_extras=26.01
+chosen_k=4
+test_inertia_k1=600.7
+test_inertia_vk=150.0
+baseline_net=-1200
+v1_net=185
+v1_minus_baseline=1385
+n_credit_v1=70
+new_member_segment=Light newcomers
+new_member_gets_credit=True
